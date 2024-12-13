@@ -14,10 +14,10 @@
             "architecture": "esp32",
             "version": "1.0.0",
             "category": "ESP32",
-            "url": "https://dl.dropboxusercontent.com/scl/fi/ofoatfl4k157hzemszc9k/TESR_ESP32_1.0.0.zip?rlkey=24miz4m5p4ii7s0lzvxplt7n7&st=h30rxov0&raw=1",
+            "url": "https://dl.dropboxusercontent.com/scl/fi/bqlw70blx2qzw89bsxpol/PTBOT_ESP32_1.0.0.zip?rlkey=yi6d9pruy3tsf27nxtl2h988r&st=oi1q14bu&raw=1",
             "archiveFileName": "PTBOT_ESP32_1.0.0.zip",
-            "checksum": "SHA-256:0e213c8684ffa3cc0dc9eb56824b09e48eb79d5e3fb03ebb1a512d9d3ea2d7ec",
-            "size": "266178195",
+            "checksum": "SHA-256:0dc7f3da7fabc47684df303237f13138b11dc04f416ec095c55562552de1287a",
+            "size": "72957105",
             "help": {
               "online": ""
             },
