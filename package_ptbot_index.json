@@ -29,38 +29,43 @@
             "toolsDependencies": [
               {
                 "packager": "esp32",
-                "name": "esp32-arduino-libs",
-                "version": "idf-release_v5.4-2f7dcd86-v1"
+                "name": "xtensa-esp32-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
-                "name": "esp-x32",
-                "version": "2411"
+                "name": "xtensa-esp32s2-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
+              },
+              {
+                "packager": "esp32",
+                "name": "xtensa-esp32s3-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
                 "name": "xtensa-esp-elf-gdb",
-                "version": "14.2_20240403"
+                "version": "11.2_20220823"
               },
               {
                 "packager": "esp32",
-                "name": "esp-rv32",
-                "version": "2411"
+                "name": "riscv32-esp-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
                 "name": "riscv32-esp-elf-gdb",
-                "version": "14.2_20240403"
+                "version": "11.2_20220823"
               },
               {
                 "packager": "esp32",
                 "name": "openocd-esp32",
-                "version": "v0.12.0-esp32-20241016"
+                "version": "v0.12.0-esp32-20230921"
               },
               {
                 "packager": "esp32",
                 "name": "esptool_py",
-                "version": "4.9.dev3"
+                "version": "4.5.1"
               },
               {
                 "packager": "esp32",
@@ -99,38 +104,43 @@
             "toolsDependencies": [
               {
                 "packager": "esp32",
-                "name": "esp32-arduino-libs",
-                "version": "idf-release_v5.4-2f7dcd86-v1"
+                "name": "xtensa-esp32-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
-                "name": "esp-x32",
-                "version": "2411"
+                "name": "xtensa-esp32s2-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
+              },
+              {
+                "packager": "esp32",
+                "name": "xtensa-esp32s3-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
                 "name": "xtensa-esp-elf-gdb",
-                "version": "14.2_20240403"
+                "version": "11.2_20220823"
               },
               {
                 "packager": "esp32",
-                "name": "esp-rv32",
-                "version": "2411"
+                "name": "riscv32-esp-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
                 "name": "riscv32-esp-elf-gdb",
-                "version": "14.2_20240403"
+                "version": "11.2_20220823"
               },
               {
                 "packager": "esp32",
                 "name": "openocd-esp32",
-                "version": "v0.12.0-esp32-20241016"
+                "version": "v0.12.0-esp32-20230921"
               },
               {
                 "packager": "esp32",
                 "name": "esptool_py",
-                "version": "4.9.dev3"
+                "version": "4.5.1"
               },
               {
                 "packager": "esp32",
@@ -169,38 +179,43 @@
             "toolsDependencies": [
               {
                 "packager": "esp32",
-                "name": "esp32-arduino-libs",
-                "version": "idf-release_v5.4-2f7dcd86-v1"
+                "name": "xtensa-esp32-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
-                "name": "esp-x32",
-                "version": "2411"
+                "name": "xtensa-esp32s2-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
+              },
+              {
+                "packager": "esp32",
+                "name": "xtensa-esp32s3-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
                 "name": "xtensa-esp-elf-gdb",
-                "version": "14.2_20240403"
+                "version": "11.2_20220823"
               },
               {
                 "packager": "esp32",
-                "name": "esp-rv32",
-                "version": "2411"
+                "name": "riscv32-esp-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
                 "name": "riscv32-esp-elf-gdb",
-                "version": "14.2_20240403"
+                "version": "11.2_20220823"
               },
               {
                 "packager": "esp32",
                 "name": "openocd-esp32",
-                "version": "v0.12.0-esp32-20241016"
+                "version": "v0.12.0-esp32-20230921"
               },
               {
                 "packager": "esp32",
                 "name": "esptool_py",
-                "version": "4.9.dev3"
+                "version": "4.5.1"
               },
               {
                 "packager": "esp32",
@@ -239,38 +254,43 @@
             "toolsDependencies": [
               {
                 "packager": "esp32",
-                "name": "esp32-arduino-libs",
-                "version": "idf-release_v5.4-2f7dcd86-v1"
+                "name": "xtensa-esp32-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
-                "name": "esp-x32",
-                "version": "2411"
+                "name": "xtensa-esp32s2-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
+              },
+              {
+                "packager": "esp32",
+                "name": "xtensa-esp32s3-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
                 "name": "xtensa-esp-elf-gdb",
-                "version": "14.2_20240403"
+                "version": "11.2_20220823"
               },
               {
                 "packager": "esp32",
-                "name": "esp-rv32",
-                "version": "2411"
+                "name": "riscv32-esp-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
               },
               {
                 "packager": "esp32",
                 "name": "riscv32-esp-elf-gdb",
-                "version": "14.2_20240403"
+                "version": "11.2_20220823"
               },
               {
                 "packager": "esp32",
                 "name": "openocd-esp32",
-                "version": "v0.12.0-esp32-20241016"
+                "version": "v0.12.0-esp32-20230921"
               },
               {
                 "packager": "esp32",
                 "name": "esptool_py",
-                "version": "4.9.dev3"
+                "version": "4.5.1"
               },
               {
                 "packager": "esp32",
