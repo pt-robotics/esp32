@@ -541,8 +541,8 @@
             "category": "ESP32",
             "url": "https://dl.dropboxusercontent.com/scl/fi/5z5t849czadxlko6md35b/PTBOT_ESP32_1.0.7.zip?rlkey=xlz7vfxlwd6jp4jzrjx64dz1k&st=ogpc0t1q&dl=0&raw=1",
             "archiveFileName": "PTBOT_ESP32_1.0.7.zip",
-            "checksum": "SHA-256:8f874d5b5443cf3a3f266f4e6b15c34a3cacbb57f44107ef61222c59f88322f3",
-            "size": "73067213",
+            "checksum": "SHA-256:8be305ca5ed60562f0772ec12555ea335956867a0b731c984780e29f664bee18",
+            "size": "73067222",
             "help": {
               "online": ""
             },
