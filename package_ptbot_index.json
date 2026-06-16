@@ -1067,6 +1067,84 @@
                 "version": "0.11.0-arduino5"
               }
             ]
+          },
+          {
+            "name": "PTBOT ESP32",
+            "architecture": "esp32",
+            "version": "1.1.4",
+            "category": "ESP32",
+            "url": "https://dl.dropboxusercontent.com/scl/fi/kcfruayj9qtwitny0sgpr/PTBOT_ESP32_1.1.4.zip?rlkey=elylos5jf32d3nuprdrb5y6u5&st=tdz1vns4&dl=0&raw=1",
+            "archiveFileName": "PTBOT_ESP32_1.1.4.zip",
+            "checksum": "SHA-256:d493bc38e7722ac49686b5370ee0495f564c762b72f2637ad87372143049efd0",
+            "size": "73263225",
+            "help": {
+              "online": ""
+            },
+            "boards": [
+              {
+                "name": "PTBOT Atom VX"
+              },
+              {
+                "name": "PTBOT Atom mini"
+              }
+            ],
+            "toolsDependencies": [
+              {
+                "packager": "esp32",
+                "name": "xtensa-esp32-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
+              },
+              {
+                "packager": "esp32",
+                "name": "xtensa-esp32s2-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
+              },
+              {
+                "packager": "esp32",
+                "name": "xtensa-esp32s3-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
+              },
+              {
+                "packager": "esp32",
+                "name": "xtensa-esp-elf-gdb",
+                "version": "11.2_20220823"
+              },
+              {
+                "packager": "esp32",
+                "name": "riscv32-esp-elf-gcc",
+                "version": "esp-2021r2-patch5-8.4.0"
+              },
+              {
+                "packager": "esp32",
+                "name": "riscv32-esp-elf-gdb",
+                "version": "11.2_20220823"
+              },
+              {
+                "packager": "esp32",
+                "name": "openocd-esp32",
+                "version": "v0.12.0-esp32-20230921"
+              },
+              {
+                "packager": "esp32",
+                "name": "esptool_py",
+                "version": "4.5.1"
+              },
+              {
+                "packager": "esp32",
+                "name": "mkspiffs",
+                "version": "0.2.3"
+              },
+              {
+                "packager": "esp32",
+                "name": "mklittlefs",
+                "version": "3.0.0-gnu12-dc7f933"
+              },
+              {
+                "packager": "arduino",
+                "name": "dfu-util",
+                "version": "0.11.0-arduino5"
+              }
+            ]
           }
         ],
         "tools": [
